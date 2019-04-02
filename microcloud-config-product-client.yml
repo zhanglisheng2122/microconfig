@@ -61,7 +61,7 @@ spring:
     url: jdbc:mysql://39.105.137.135:3306/springcloud?serverTimezone=GMT%2B8 # 数据库连接地址
     username: root # 数据库用户名
     password: root # 数据库连接密码
-  profiles: dev
+  profiles: hotfix
 
 
 logging:
